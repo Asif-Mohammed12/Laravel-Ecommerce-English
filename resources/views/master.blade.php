@@ -24,5 +24,36 @@
         height: 500px;
         padding-top: 100px; 
     }
+    img.slider-img{
+        height:400px !important;
+    }
+    .custom-slider{
+        height: 400px;
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+    .slider-text{
+        background-color: #35443585;
+    }
+    .trending-image{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+        width: 20%;
+    }
+    .trending-warpper{
+        margin: 50px;
+    }
+    .detail-img{
+        height: 300px;
+    }
+    .search-box{
+        width: 500px !important;
+    }
+    .search-img{
+        height: 100px;
+        
+    }
 </style>
 </html>
